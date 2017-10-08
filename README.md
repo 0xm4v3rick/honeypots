@@ -1,3 +1,3 @@
-##Collection of honeypot data
+## Collection of honeypot data
 
-Includes artefacts, logs etc collected from various honeypots. Updated as and when I find time.
+Includes artefacts, logs etc collected from various honeypots. Updated as and when I find time.  
